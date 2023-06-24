@@ -1,0 +1,554 @@
+[
+  {
+    "Date": "July 21st",
+    "data": [
+      {
+        "stage": "Freedom",
+        "artists": [
+          "Agents Of Time (Live)",
+          "Eric Prydz presents HOLO",
+          "Kölsch",
+          "Mathame",
+          "Maxi Meraki",
+          "Meduza",
+          "Mooglie"
+        ]
+      },
+      {
+        "stage": "Rampage",
+        "artists": [
+          "A Little Sound",
+          "Dr Ushuu B2B Ivory",
+          "Funtcase",
+          "Grafix",
+          "Hazard",
+          "Macky Gee",
+          "Maze",
+          "Monrroe & Duskee",
+          "Murdock",
+          "SVDDEN DEATH",
+          "USED"
+        ],
+        "location": "The Rose Garden"
+      },
+      {
+        "stage": "The Mangrove",
+        "artists": [
+          "Audiowave",
+          "BAVR",
+          "DJ NC",
+          "Flo Windey ft. Skyve",
+          "Hyalyte",
+          "Kamal Bankay",
+          "MagiK",
+          "MC Rim",
+          "Milinguap",
+          "Soul Shakers"
+        ],
+        "location": "Harbour House"
+      },
+      {
+        "stage": "Cage",
+        "artists": [
+          "Cera Khin",
+          "Jan Vercauteren",
+          "Patrick Mason",
+          "Paula Temple",
+          "SPFDJ",
+          "Wanton"
+        ]
+      },
+      {
+        "stage": "Burenhinder",
+        "artists": [
+          "Burenhinder b4b",
+          "Gitzwart",
+          "Instar",
+          "Jane Muss",
+          "Jazie",
+          "Lexi",
+          "LOLITA",
+          "Myu:sa",
+          "Stella K",
+          "Waltur"
+        ],
+        "location": "The Rave Cave"
+      },
+      {
+        "stage": "Sub Zero Project – Psychodelic",
+        "artists": [
+          "Ben Nicky presents Xtreme",
+          "Boray",
+          "Coone",
+          "D-Sturb",
+          "Demi Kanon",
+          "Devin Wild",
+          "Hard Driver",
+          "Sickmode",
+          "Sub Zero Project",
+          "TNT",
+          "Warface"
+        ],
+        "location": "Youphoria"
+      },
+      {
+        "stage": "Terra Solis",
+        "artists": [
+          "Airrica",
+          "Dorian Craft",
+          "Kasango",
+          "MoBlack",
+          "Mosoo",
+          "Philou Louzolo"
+        ]
+      },
+      {
+        "stage": "Rise",
+        "artists": [
+          "Franky Wah",
+          "Marsh",
+          "Nils Hoffmann",
+          "Nora En Pure",
+          "NTO"
+        ]
+      },
+      {
+        "stage": "Drumcode",
+        "artists": [
+          "Adam Beyer",
+          "Carmen Lisa",
+          "Eli Brown",
+          "HI-LO b2b Layton Giordani",
+          "Joris Voorn",
+          "Juliet Fox",
+          "SHDDR"
+        ],
+        "location": "Atmosphere"
+      },
+      {
+        "stage": "CORE",
+        "artists": [
+          "Asian Sal",
+          "Ava Eva",
+          "Dino Lenny",
+          "Folamour",
+          "Krystal Klear",
+          "Special Request"
+        ],
+        "location": "Core"
+      },
+      {
+        "stage": "Mainstage",
+        "artists": [
+          "Amelie Lens",
+          "Anfisa Letyago",
+          "Daybreak session: Claptone",
+          "Henri PFR",
+          "MATTN",
+          "Mc Stretch",
+          "Steve Angello",
+          "Sunnery James & Ryan Marciano",
+          "The Chainsmokers",
+          "Tiësto",
+          "Vini Vici"
+        ]
+      },
+      {
+        "stage": "Crystal Garden",
+        "artists": [
+          "D&W",
+          "HoneyLuv",
+          "LF System",
+          "LP Giobbi",
+          "Matt Guy",
+          "Purple Disco Machine",
+          "Solardo",
+          "Tom & Collins"
+        ]
+      },
+      {
+        "stage": "Lost Frequencies & Friends",
+        "artists": [
+          "Acraze",
+          "AdamK",
+          "Bleu Clair",
+          "Chemical Surf",
+          "Lost Frequencies",
+          "Marten Hørger",
+          "Marwan Dua",
+          "Netsky",
+          "Oliver Heldens",
+          "Omdat Het Kan Soundsystem ft. Average Rob",
+          "Sonny Fodera",
+          "The Magician",
+          "Wax Motif"
+        ],
+        "location": "The Library"
+      },
+      {
+        "stage": "Moosebar",
+        "artists": []
+      }
+    ]
+  },
+  {
+    "Date": "July 22nd",
+    "data": [
+      {
+        "stage": "Afterlife",
+        "artists": [
+          "8Kays",
+          "Adriatique",
+          "Anyma",
+          "Axel Haube",
+          "Camelphat",
+          "Colyn",
+          "Kevin De Vries",
+          "Tale Of Us"
+        ],
+        "location": "Freedom"
+      },
+      {
+        "stage": "Bonzai",
+        "artists": [
+          "Bonzai All Stars",
+          "Dj Fire",
+          "DJ Ghost",
+          "DJ Jan",
+          "Franky Jones",
+          "Franky Kloeck",
+          "Greg S",
+          "Jan Vervloet",
+          "Jens Lissat",
+          "Mc Pyro",
+          "Phi Phi",
+          "PUSH"
+        ],
+        "location": "The Rose Garden"
+      },
+      {
+        "stage": "Lonely at the Tap by FeestDJRuud",
+        "artists": [
+          "Afro Bros",
+          "Bennie Disko",
+          "Disco Danny",
+          "FeestDJRuud",
+          "Gullie",
+          "Lady Bee",
+          "Otto Wunderbar",
+          "Raywell",
+          "Raywell &  Ron Simpson",
+          "Ruthless",
+          "Trobi"
+        ],
+        "location": "Harbour House"
+      },
+      {
+        "stage": "Footworxx",
+        "artists": [
+          "Cryex",
+          "Dark Phoenix",
+          "Estasia vs Republic",
+          "Killshot",
+          "Mad Dog",
+          "Neko vs Maissouille",
+          "Remzcore",
+          "Revenja",
+          "Sakyra",
+          "Sandy Warez vs The Mind Destiny",
+          "The Dark Horror"
+        ],
+        "location": "Cage"
+      },
+      {
+        "stage": "Crystal",
+        "artists": [
+          "Atitdude",
+          "Bridgeman",
+          "Deuxfwa",
+          "Himperson",
+          "Jonas Van Opstal",
+          "Los Bomberos",
+          "Monta",
+          "Pisca",
+          "Soulcity"
+        ],
+        "location": "The Rave Cave"
+      },
+      {
+        "stage": "Monstercat",
+        "artists": [
+          "Adventure Club",
+          "ARMNHMR",
+          "Curbi",
+          "Godlands",
+          "Kompany",
+          "Koven",
+          "Ray Volpe",
+          "Shingo Nakamura",
+          "SLANDER"
+        ],
+        "location": "Youphoria"
+      },
+      {
+        "stage": "Terra Solis",
+        "artists": ["Amémé", "Bedouin", "Capoon", "Francesca Lombardo"]
+      },
+      {
+        "stage": "Glitterbox",
+        "artists": ["Groove Armada", "Mousse T.", "Sophie Lloyd", "Todd Terry"],
+        "location": "Rise"
+      },
+      {
+        "stage": "Atmosphere",
+        "artists": [
+          "Indira Paganotto",
+          "One Track Brain b2b Ogenn",
+          "Ramon Tapia",
+          "Reinier Zonneveld",
+          "Symphony of Unity"
+        ]
+      },
+      {
+        "stage": "CORE presents ZAMNA",
+        "artists": [
+          "&ME",
+          "Armonica",
+          "Brina Knauss",
+          "Human Rias",
+          "Oostil b2b The Element"
+        ],
+        "location": "Core"
+      },
+      {
+        "stage": "Mainstage",
+        "artists": [
+          "Afrojack",
+          "Alesso",
+          "ALOK",
+          "Amber Broos",
+          "Daybreak session: Laidback Luke presents Wayback Luke",
+          "Dimitri Vegas & Like Mike",
+          "GORDO",
+          "James Hype",
+          "Mc Stretch"
+        ]
+      },
+      {
+        "stage": "Crystal Garden",
+        "artists": [
+          "Öwnboss",
+          "Ben Malone",
+          "Chico Rose",
+          "Double Pleasure",
+          "Jengi",
+          "Kapuchon",
+          "Kryder & B Jones",
+          "Sem Thomasson",
+          "Sunnery James & Ryan Marciano present Amazone Project"
+        ]
+      },
+      {
+        "stage": "STMPD RCRDS x Tomorrowland Music",
+        "artists": [
+          "Dubvision",
+          "Fancy Inc",
+          "Goodboys",
+          "Joseph Capriati",
+          "Julian Jordan",
+          "Martin Garrix and Friends",
+          "Matisse & Sadko",
+          "Paul Kalkbrenner",
+          "Peter Luts"
+        ],
+        "location": "The Library"
+      },
+      {
+        "stage": "Moosebar",
+        "artists": []
+      }
+    ]
+  },
+  {
+    "Date": "July 23rd",
+    "data": [
+      {
+        "stage": "Q-dance",
+        "artists": [
+          "Angerfist",
+          "Brennan Heart",
+          "Frequencerz",
+          "KELTEK",
+          "MANDY",
+          "Mark With a K & Mc Chucky",
+          "MC Villain",
+          "Outsiders",
+          "Rebelion & Vertile",
+          "Refuzion",
+          "Sound Rush"
+        ],
+        "location": "Freedom"
+      },
+      {
+        "stage": "2010-2012",
+        "artists": [
+          "Blasterjaxx",
+          "Boy",
+          "Chuckie",
+          "DiMaro",
+          "Dyro",
+          "Firebeatz",
+          "Mystique",
+          "Quintino",
+          "W&W",
+          "Yves V"
+        ],
+        "location": "The Rose Garden"
+      },
+      {
+        "stage": "Radio Ultra Modern",
+        "artists": []
+      },
+      {
+        "stage": "One87 presents",
+        "artists": [
+          "CESCO",
+          "Farflow",
+          "GEST",
+          "James Marvel",
+          "Mc Lowqui",
+          "MC Nice",
+          "Midas Touch Showcase w/ SVB & Scepticz",
+          "One87",
+          "Phase & LaMeduza",
+          "Serum",
+          "The Sauce"
+        ],
+        "location": "Cage"
+      },
+      {
+        "stage": "WoodyWeekend",
+        "artists": [
+          "DJ Tom & Saxy Mr S",
+          "Fre",
+          "Greg Lamore",
+          "Jackless & The Fox",
+          "Luna Lucci",
+          "Many Moore",
+          "Maximo",
+          "QUE9",
+          "Sol & Sura",
+          "Thim",
+          "Toitoy Boys"
+        ],
+        "location": "The Rave Cave"
+      },
+      {
+        "stage": "Youphoria",
+        "artists": [
+          "Andrew Rayel",
+          "Ben Nicky presents Emotional Havoc",
+          "Cosmic Gate",
+          "Gareth Emery",
+          "M.I.K.E. Push",
+          "Nifra",
+          "RODG",
+          "Ruben de Ronde"
+        ]
+      },
+      {
+        "stage": "SHOMI",
+        "artists": [
+          "Danny Howard",
+          "Delafino B2B DJ Gee",
+          "DJ Licious",
+          "Elenore",
+          "Guz",
+          "Iljac",
+          "Justin Wilkes",
+          "Majestic",
+          "Robbie Rise",
+          "Sakso",
+          "Yamo"
+        ],
+        "location": "Terra Solis"
+      },
+      {
+        "stage": "Cafeína",
+        "artists": [
+          "Cemode & Seelen",
+          "Disco Dasco",
+          "Joeri & Neon",
+          "Pat Krimson",
+          "Roma",
+          "ZT Music"
+        ],
+        "location": "Rise"
+      },
+      {
+        "stage": "Atmosphere",
+        "artists": ["Black Coffee", "Carlita", "Dixon", "GHEIST live", "Sona"]
+      },
+      {
+        "stage": "CORE",
+        "artists": [
+          "A Local Hero",
+          "Cellini",
+          "Chet Faker dj-set",
+          "CiCi",
+          "DJ BORING",
+          "Jordan Vickors"
+        ],
+        "location": "Core"
+      },
+      {
+        "stage": "Mainstage",
+        "artists": [
+          "Da Tweekaz",
+          "Daybreak Session: Franky Rizardo",
+          "Lost Frequencies",
+          "Martin Garrix",
+          "Mc Stretch",
+          "Nina Kraviz",
+          "Timmy Trumpet",
+          "Vintage Culture",
+          "Yves Deruyter"
+        ]
+      },
+      {
+        "stage": "Crystal Garden",
+        "artists": [
+          "Airwolf Paradise",
+          "Cloonee",
+          "Dana Montana",
+          "Dom Dolla",
+          "Eats Everything",
+          "Lou8",
+          "Patrick Topping"
+        ]
+      },
+      {
+        "stage": "Smash The House",
+        "artists": [
+          "3 Are Legend",
+          "Azteck & Angemi",
+          "Bassjackers",
+          "D-Wayne",
+          "DJ Diesel",
+          "Dubdogz",
+          "Faulhaber",
+          "Joel Corry",
+          "John Newman",
+          "Martin Jensen",
+          "Quintino",
+          "Wolfpack vs Diego Miranda"
+        ],
+        "location": "The Library"
+      },
+      {
+        "stage": "Moosebar",
+        "artists": []
+      }
+    ]
+  }
+]
