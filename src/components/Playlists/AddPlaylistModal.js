@@ -49,6 +49,7 @@ function AddPlaylistModal({ onSubmit, onClose }) {
             <input
               type="text"
               id="name"
+              autocomplete="off"
               value={name}
               onChange={(e) => setName(e.target.value)}
               className="w-full p-2 border border-gray-300 rounded"
@@ -61,6 +62,7 @@ function AddPlaylistModal({ onSubmit, onClose }) {
             <input
               type="text"
               id="link"
+              autocomplete="off"
               value={link}
               onChange={(e) => setLink(e.target.value)}
               className="w-full p-2 border border-gray-300 rounded"
