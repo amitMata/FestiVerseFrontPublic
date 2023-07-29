@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 function Countdownlist() {
   const [time, setTime] = useState("");
   useEffect(() => {
-    let countDownDate = new Date("Jul 20, 2023 20:00:00").getTime();
+    let countDownDate = new Date("Jul 18, 2024 20:00:00").getTime();
     let x = setInterval(() => {
       let now = new Date().getTime();
 
